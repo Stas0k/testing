@@ -51,7 +51,7 @@ networkx==2.4
 numpy==1.17.4
 openpyxl==3.0.2
 packaging==20.4
-paramiko==2.7.2
+paramiko==2.10.1
 parse==1.12.1
 pathlib2==2.3.5
 pbr==5.4.4
